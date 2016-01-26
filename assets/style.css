@@ -1,0 +1,44 @@
+body {
+    padding: 0 20px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.site-title {
+    color: #6B4E3D;
+    font-size: 300%;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.site-title:hover {
+    text-decoration: underline;
+}
+
+.problem-title {
+    color: #6B4E3D;
+}
+
+.problem-subtitle {
+    color: #666;
+}
+
+.problem-content {
+    padding: 10px;
+    font-size: 110%;
+    max-width: 768px;
+    margin: 0 auto 20px;
+    border-top: solid 1px #ddd;
+    border-bottom: solid 1px #aaa;
+    border-left: solid 1px #ddd;
+    border-right: solid 1px #aaa;
+}
+
+#answer {
+    color: #6B4E3D;
+    font-size: 120%;
+    font-weight: bold;
+}
